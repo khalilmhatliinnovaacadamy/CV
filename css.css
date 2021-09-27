@@ -1,0 +1,25 @@
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+body{
+    background-image: url("back.jpg");
+    background-position: center;
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 3px blue;
+    font-weight: bold;
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    text-align: center;
+    text-size: 60px ;
+}
+a {
+    color: blue;
+    font-size: 45px;
+    
+}
